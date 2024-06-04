@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a furute gaming rpg.
 - 📫 How to reach me, via email heavnwdd@gmail.com
-- 😄 Pronouns: they/them
+- 😄 Pronouns: they/them/she/her
 - ⚡ Fun fact: I am also an artist
 
 <!---
